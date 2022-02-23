@@ -1,0 +1,17 @@
+Snipe front run and also snipe presale
+The bot currently works for pancakeswap and uses wbnb, I will need to also use bnb and busd. Fees can be still paid in BNB like is it now.
+If you can add Uniswap and sushiswap to work with weth and USDC
+Is it possible? Also the front run module is not working very if you can check it and tell me what’s wrong. // Which part aren't working for you? buy token or sell token?
+Also. The presale on dx sale works on v2 but they update dx sale to v3 can you update the address there too? 
+So it’s possible for you to add a cool interface instead of visual studio with same code still in Javascript?
+
+Ok but will you add this also into interface ?
+1: add bnb and busd on pancake	// I cannot find bnb address in bsc.
+2: add sushi and uni ( to work with weth and USDC) // There is no Radium network token.
+3: make dx sale v3 and if possible to detect countdown just with address // I changed dxsale presale address. The presale of Your address is failed. So I insert new presale address.
+Let me show you
+
+Let’s keep it in visual studio. Once all changes are done and everything. We can see after if add interface or not ok ?
+Also , if you see the bot it has sell delay in seconds. Is it possible for you to set it at like set at x2 profits or at x5 and so on ?
+
+
